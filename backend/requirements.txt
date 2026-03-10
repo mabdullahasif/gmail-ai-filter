@@ -1,0 +1,13 @@
+# Core Email Logic
+imapclient
+pyzmail36
+beautifulsoup4
+textblob
+scikit-learn
+
+# Real-time Web Backend
+fastapi
+uvicorn
+python-socketio
+websockets
+jinja2
